@@ -1,2 +1,2 @@
-#Welcome
+# Welcome
 This ePortfolio serves as a comprehensive amalgamation of the knowledge and proficiencies cultivated during my tenure in the Computer Science program at Southern New Hampshire University (SNHU). It encapsulates my progressive journey within the program, showcasing achievements that have earned me prestigious accolades for exceptional outcomes. Meticulously crafted, this ePortfolio is a testament to my professional growth, manifesting in eloquent written content and visually compelling communication. Its seamless cohesion, technical prowess, and tailored approach aptly cater to specific technical audiences and contexts, exemplifying my competencies and adaptability.
