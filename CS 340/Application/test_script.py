@@ -1,3 +1,12 @@
+'''
+Name          : Animal Shelter Database Test Script
+Author        : Keith Breazeale
+Date          : 28-November 2023
+Class         : CS-340
+Version       : 2.0
+Purpose       : To test the CRUD Operations of the Grazioso Salvare Animal Shelter Database
+'''
+
 from animal_shelter import AnimalShelter
 shelter = AnimalShelter("aacuser","aacuser")
 
