@@ -1,7 +1,7 @@
 '''
 Name          : Animal Shelter Database Connector
 Author        : Keith Breazeale
-Date          : 20-Noveber 2023
+Date          : 20-November 2023
 Class         : CS-340
 Version       : 2.0
 Purpose       : To provide a database connection to the Grazioso Salvare Animal Shelter Database
