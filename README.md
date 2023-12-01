@@ -1,9 +1,15 @@
 # Welcome
 This ePortfolio serves as a comprehensive amalgamation of the knowledge and proficiencies cultivated during my tenure in the Computer Science program at Southern New Hampshire University (SNHU). It encapsulates my progressive journey within the program, showcasing achievements that have earned me prestigious accolades for exceptional outcomes. Meticulously crafted, this ePortfolio is a testament to my professional growth, manifesting in eloquent written content and visually compelling communication. Its seamless cohesion, technical prowess, and tailored approach aptly cater to specific technical audiences and contexts, exemplifying my competencies and adaptability.
+
+# Table of Contents
+* [Code Reviews](#code-reviews)
+* [Software Design and Engineering / Database Application](#software-design-and-engineering-/-database-application)
+* [Algorithms and Data Structures Application](#algorithms-and-data-structures-application)
+
 # Code Reviews
 Below are the code reviews that I have completed based on specific categories.
 
-## Software Engineering Design and Database Category
+## Software Design and Engineering and Database Category
 The artifact that I am choosing for both the Software Engineering/Design and Database categories is the “Grazioso Salvare Animal Finder Application. This application has a Python front end and utilizes MongoDB (NoSQL) for it’s database. This artifact was developed in the CS 340: Client/Server Development course at SNHU. 
 I was tasked with creating a web application that interfaces with existing animal shelter databases. The goal is to identify and categorize dogs suitable for various rescue scenarios like water rescue, mountain/wilderness rescue, disaster recovery, and scent tracking for specific individuals. This application streamlines interaction with individual dog profiles sourced from a MongoDB database.
 The user interface will be a user-friendly and intuitive dashboard accessible to clients. This approach leverages the Model-View-Controller (MVC) software design pattern, providing a structured and organized framework. Additionally, the application will incorporate a RESTful protocol, extending the capabilities of the HTTP protocol to offer an application programming interface (API) for seamless communication between components. This combination of technologies aims to enhance usability, minimize errors, and optimize training time.
@@ -29,7 +35,8 @@ The focus of the artifact enhancements was on transitioning the web application 
 
 The setup and execution of the web application posed considerable challenges. However, this experience showcased my proficiency in employing well-established and inventive techniques, tools, and skills within computing practices. Before delving into the web application documentation, I adeptly navigated the setup procedures for Python and MongoDB. Furthermore, adapting the web app's source code functionality to accommodate changes in the PyMongo driver version and an upgraded MongoDB platform underscored my ability to implement computer solutions that not only deliver value but also align with industry-specific objectives.
 
-Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20340/Application)
+Original Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20340/Old%20Application)
+Enhanced Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20340/Application)
 
 # Algorithms and Data Structures Application
 As mentioned in the Algorithms and Data Structures Code review, the application that was chosen was the "Binary Search Tree" Application. This application is written in C++. This artifact was conceptualized, designed, and built as part of the CS 260: Data Structures and Algorithms course at SNHU. The objective of this application was to create a small, efficient program for loading bid information and then allowing the user to search through the bids via a terminal. 
@@ -41,4 +48,5 @@ As mentioned in the Algorithms and Data Structures Code review, the application 
 
 The focus of the artifact enhancements was to enable the ability to list all bids by dollar amount as well as the ability to find all bids by a dollar amount within a specific range. While making the enhancements, I was able to put my developer hat on and look at things from that perspective which allowed me to improve the structure of the code not only from something as simple as comments but to the overall functionality of the application. I also was able to put my end user hat on, to review the existing code and confirm if there was anything that didn’t work as intended. 
 
-Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20260/Application)
+Original Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20260/Old%20Application)
+Enhanced Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20260/Application)
