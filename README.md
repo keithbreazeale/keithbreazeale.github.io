@@ -36,6 +36,7 @@ The focus of the artifact enhancements was on transitioning the web application 
 The setup and execution of the web application posed considerable challenges. However, this experience showcased my proficiency in employing well-established and inventive techniques, tools, and skills within computing practices. Before delving into the web application documentation, I adeptly navigated the setup procedures for Python and MongoDB. Furthermore, adapting the web app's source code functionality to accommodate changes in the PyMongo driver version and an upgraded MongoDB platform underscored my ability to implement computer solutions that not only deliver value but also align with industry-specific objectives.
 
 Original Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20340/Old%20Application)
+
 Enhanced Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20340/Application)
 
 # Algorithms and Data Structures Application
@@ -49,4 +50,5 @@ As mentioned in the Algorithms and Data Structures Code review, the application 
 The focus of the artifact enhancements was to enable the ability to list all bids by dollar amount as well as the ability to find all bids by a dollar amount within a specific range. While making the enhancements, I was able to put my developer hat on and look at things from that perspective which allowed me to improve the structure of the code not only from something as simple as comments but to the overall functionality of the application. I also was able to put my end user hat on, to review the existing code and confirm if there was anything that didn’t work as intended. 
 
 Original Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20260/Old%20Application)
+
 Enhanced Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20260/Application)
