@@ -15,10 +15,22 @@ I was tasked with creating a web application that interfaces with existing anima
 The user interface will be a user-friendly and intuitive dashboard accessible to clients. This approach leverages the Model-View-Controller (MVC) software design pattern, providing a structured and organized framework. Additionally, the application will incorporate a RESTful protocol, extending the capabilities of the HTTP protocol to offer an application programming interface (API) for seamless communication between components. This combination of technologies aims to enhance usability, minimize errors, and optimize training time.
 The video version of the Code Review can be found [here.](https://www.youtube.com/watch?v=I1r4QC94PJw)
 
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
+
 ## Algorithms and Data Structures
 The artifact that I am choosing for the Algorithms and Data Structures category is the Binary Search Tree Algorithm. This artifact is a data structure capable of storing bid information and enabling rapid retrieval of a specific ID number using a binary search tree algorithm. This artifact was developed in the CS 260: Data Structures and Algorithms course at SNHU.
 This code defines a binary search tree class (BinarySearchTree) and its associated methods to manage a collection of bids. It also includes utility functions for loading data from a CSV file, converting strings to doubles, and displaying bid information. The program uses a simple command-line interface to interact with the binary search tree.
 The video version of the Code Review can be found [here.](https://www.youtube.com/watch?v=by6N7GbmcWM)
+
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
 
 # Software Design and Engineering / Database Application
 As mentioned in the Software Engineering Design and Database Category Code Review, the application that was chosen was the "Grazioso Salvare Animal Finder" Application. This application has a Python front end and utilizes MongoDB (NoSQL) for it’s database. This artifact was conceptualized, designed, and built as part of the CS 340 Client/Server Development course at SNHU. The objective of the web application is to create a user-friendly interface that interfaces with an existing animal shelter database. Its purpose is to identify and categorize dogs available for various rescue training programs.  Developed using Python and the Dash framework, the application integrates with MongoDB, a non-relational database, using the PyMongo driver. It's designed to operate within Jupyter Notebook for testing and through a computer terminal with an internet browser. The app's functionalities include importing a CSV file of shelter dogs into MongoDB, incorporating necessary dependencies such as Python libraries, PyMongo, and the Dash framework. It also includes a Python source code and CRUD module to manipulate the imported data within MongoDB.
@@ -39,6 +51,12 @@ Original Application code can be found [here.](https://github.com/keithbreazeale
 
 Enhanced Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20340/Application)
 
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
+
 # Algorithms and Data Structures Application
 As mentioned in the Algorithms and Data Structures Code review, the application that was chosen was the "Binary Search Tree" Application. This application is written in C++. This artifact was conceptualized, designed, and built as part of the CS 260: Data Structures and Algorithms course at SNHU. The objective of this application was to create a small, efficient program for loading bid information and then allowing the user to search through the bids via a terminal. 
 
@@ -52,3 +70,9 @@ The focus of the artifact enhancements was to enable the ability to list all bid
 Original Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20260/Old%20Application)
 
 Enhanced Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20260/Application)
+
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
