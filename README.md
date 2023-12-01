@@ -3,7 +3,7 @@ This ePortfolio serves as a comprehensive amalgamation of the knowledge and prof
 
 # Table of Contents
 * [Code Reviews](#code-reviews)
-* [Software Design and Engineering / Database Application](#software-design-and-engineering-/-database-application)
+* [Software Design and Engineering / Database Application](#software-design-and-engineering--database-application)
 * [Algorithms and Data Structures Application](#algorithms-and-data-structures-application)
 
 # Code Reviews
