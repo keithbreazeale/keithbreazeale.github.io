@@ -10,7 +10,7 @@ This ePortfolio serves as a comprehensive amalgamation of the knowledge and prof
 Below are the code reviews that I have completed based on specific categories.
 
 ## Software Design and Engineering and Database Category
-The artifact that I am choosing for both the Software Engineering/Design and Database categories is the “Grazioso Salvare Animal Finder Application. This application has a Python front end and utilizes MongoDB (NoSQL) for it’s database. This artifact was developed in the CS 340: Client/Server Development course at SNHU. 
+The artifact that I am choosing for both the Software Engineering/Design and Database categories is the “Grazioso Salvare Animal Finder Application." This application has a Python front end and utilizes MongoDB (NoSQL) for it’s database. This artifact was developed in the CS 340: Client/Server Development course at SNHU. 
 I was tasked with creating a web application that interfaces with existing animal shelter databases. The goal is to identify and categorize dogs suitable for various rescue scenarios like water rescue, mountain/wilderness rescue, disaster recovery, and scent tracking for specific individuals. This application streamlines interaction with individual dog profiles sourced from a MongoDB database.
 The user interface will be a user-friendly and intuitive dashboard accessible to clients. This approach leverages the Model-View-Controller (MVC) software design pattern, providing a structured and organized framework. Additionally, the application will incorporate a RESTful protocol, extending the capabilities of the HTTP protocol to offer an application programming interface (API) for seamless communication between components. This combination of technologies aims to enhance usability, minimize errors, and optimize training time.
 The video version of the Code Review can be found [here.](https://www.youtube.com/watch?v=I1r4QC94PJw)
@@ -22,7 +22,7 @@ The video version of the Code Review can be found [here.](https://www.youtube.co
 </div>
 
 ## Algorithms and Data Structures
-The artifact that I am choosing for the Algorithms and Data Structures category is the Binary Search Tree Algorithm. This artifact is a data structure capable of storing bid information and enabling rapid retrieval of a specific ID number using a binary search tree algorithm. This artifact was developed in the CS 260: Data Structures and Algorithms course at SNHU.
+The artifact that I am choosing for the Algorithms and Data Structures category is the "Binary Search Tree Algorithm." This artifact is a data structure capable of storing bid information and enabling rapid retrieval of a specific ID number using a binary search tree algorithm. This artifact was developed in the CS 260: Data Structures and Algorithms course at SNHU.
 This code defines a binary search tree class (BinarySearchTree) and its associated methods to manage a collection of bids. It also includes utility functions for loading data from a CSV file, converting strings to doubles, and displaying bid information. The program uses a simple command-line interface to interact with the binary search tree.
 The video version of the Code Review can be found [here.](https://www.youtube.com/watch?v=by6N7GbmcWM)
 
@@ -58,7 +58,7 @@ Enhanced Application code can be found [here.](https://github.com/keithbreazeale
 </div>
 
 # Algorithms and Data Structures Application
-As mentioned in the Algorithms and Data Structures Code review, the application that was chosen was the "Binary Search Tree" Application. This application is written in C++. This artifact was conceptualized, designed, and built as part of the CS 260: Data Structures and Algorithms course at SNHU. The objective of this application was to create a small, efficient program for loading bid information and then allowing the user to search through the bids via a terminal. 
+As mentioned in the Algorithms and Data Structures Code review, the application that was chosen was the "Binary Search Tree" Application. This application is written in C++. This artifact was conceptualized, designed, and built as part of the CS 260: Data Structures and Algorithms course at SNHU. The objective of this application was to create a small, efficient program for loading bid information (stored in a CSV file) and then allowing the user to search through the bids via a terminal. 
 
 <div style="text-align: center;">
     <img src="CS 260/CS 260 Interface.png" width="800px" title="Bid Information Search Tool based on the Binary Search Tree Algorithm Screenshot" />
