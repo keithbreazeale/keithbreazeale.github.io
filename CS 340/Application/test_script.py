@@ -4,7 +4,9 @@ Author        : Keith Breazeale
 Date          : 28-November 2023
 Class         : CS-340
 Version       : 2.0
-Purpose       : To test the CRUD Operations of the Grazioso Salvare Animal Shelter Database
+Purpose       : The purpose of this Py script is to test the CRUD Operations against the 
+                Grazioso Salvare Animal Shelter Database. Sample screenshots of each test 
+                can be found in the ReadMe file.
 '''
 
 from animal_shelter import AnimalShelter
@@ -13,7 +15,7 @@ shelter = AnimalShelter("aacuser","aacuser")
 data = {"1": 3,
         "age_upon_outcome" : "4 years",
         "animal_id" : "27-Mar-2023_test"
-        "animal_type" :"Dog",
+        "animal_type" : "Dog",
         "breed" : "Bluetick Coonhound",
         "color" : "Black and White",
         "date_of_birth" : "2019-01-01",
@@ -28,9 +30,8 @@ data = {"1": 3,
         "age_upon_outcome_in_weeks" : 220}
 
 #Create Test
-shelter.create(data):
-    print("Animal added successfully!")
-
+shelter.create(data)
+print("Animal added successfully!")
 
 #Read Test
 result = shelter.read(data)
