@@ -102,7 +102,7 @@ The setup and execution of the web application posed considerable challenges. Ho
 
 Original Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20340/Old%20Application)
 
-Enhanced Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20340/Application)
+Enhanced Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20340/Application) It is to note that the above enhancements are shown with an "Enhancement" comment to show where in the code the enhancement was made.
 
 <div style="text-align: right;">
     <a href="#">
@@ -125,15 +125,16 @@ The original application would only list all bids by ID, find bid by ID, and the
 
 The focus of the artifact enhancements was to enable the ability to list all bids by dollar amount as well as the ability to find all bids by a dollar amount within a specific range. While making the enhancements, I was able to put my developer hat on and look at things from that perspective which allowed me to improve the structure of the code not only from something as simple as comments but to the overall functionality of the application. I also was able to put my end user hat on, to review the existing code and confirm if there was anything that didn’t work as intended.  The full listing of enhancements are:
 
-1.	Enhancement to the existing program to enable the ability to list all bids by dollar amount.
-2.	Enhancement to the existing program to enable the ability to find all bids by dollar amount within a specified range. (Currently hard-coded, future enhancement would be to allow user input to specify these ranges.)
-3.	As identified in the code review, added better comments where necessary for other developers to understand what each code block does.
+1.  Added Destructor code that was missing from the original code, which was identified during the code review.
+2.	Enhancement to the existing program to enable the ability to list all bids by dollar amount.
+3.	Enhancement to the existing program to enable the ability to find all bids by dollar amount within a specified range. (Currently hard-coded, future enhancement would be to allow user input to specify these ranges.)
+4.	As identified in the code review, added better comments where necessary for other developers to understand what each code block does.
 
 When I was originally creating this application, my understanding of C++ was limited. The way the course was taught and the base code that was provided throughout was incredibly helpful. While making the enhancements, I was able to put my developer hat on and look at things from that perspective which allowed me to improve the structure of the code not only from something as simple as comments but to the overall functionality of the application. I also was able to put my end user hat on, to review the existing code and confirm if there was anything that didn’t work as intended. The main challenges that were faced ultimately was the learning curve of C++. In my previous Milestone for the Software Engineering/Design category, Python to me, is significantly easier to pick up as a non-developer than C++.
 
 Original Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20260/Old%20Application)
 
-Enhanced Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20260/Application)
+Enhanced Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20260/Application) It is to note that the above enhancements are shown with an "Enhancement" comment to show where in the code the enhancement was made.
 
 <div style="text-align: right;">
     <a href="#">
