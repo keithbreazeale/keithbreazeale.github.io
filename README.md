@@ -83,6 +83,8 @@ Each record in the MongoDB database is a BSON document, retrieved in a JSON form
 
 I selected this application for it was one that I was proud of doing while in the CS 340 course. I saw it as a challenge since it was originally created in Linux on SNHU’s Apporto platform which was no longer available to me, so I decided to see if I could get it up and running on the Windows platform. In doing this, it allowed me to showcase my ability to work with Python and MongoDB in a different platform, which enables a greater audience to use the application which is an improvement on it’s own.
 
+When this application was developed in the Apporto app under a Linux OS, the dashboard would load, featuring the table, pie chart, and the geolocation map. However, when selecting a filter for a rescue type, the geolocation chart would not refresh when selecting an animal from the table. So while it was functional, it wasn't without defect!
+
 The focus of the artifact enhancements was on transitioning the web application from the Apporto Virtual Lab, a Linux-based remote desktop platform, to a Windows environment. Following the initial development in the Apporto Virtual Lab, I meticulously redesigned the software to cater to user requirements within a structured framework. Relying on the provided documentation as a guide, I meticulously replicated the web application environment in a Windows terminal, continuously updating and refining the documentation to reflect the steps taken in this recreation process. There was also some issues with the geolocational chart rendering that I was able to resolve. The full listing of the enhancements are:
 
 1.  Upgraded Python from 2.7 to 3.7 and MongoDB from 5.0 to 7.0, reducing security vulnerabilities if the application/database were to be attacked.
@@ -94,7 +96,6 @@ The focus of the artifact enhancements was on transitioning the web application 
 7.	Major overhaul on the Geolocation Chart where it wasn’t plotting a marker after the filtered data table was generated.
 8.	Updated Read-Me file to include Windows installation instructions.
 9.	Enhanced security of application by changing the default port number of 43981, which reduces outside port sniffing attacks on default ports.
-
 
 The setup and execution of the web application posed considerable challenges. However, this experience showcased my proficiency in employing well-established and inventive techniques, tools, and skills within computing practices. Before delving into the web application documentation, I adeptly navigated the setup procedures for Python and MongoDB. Furthermore, adapting the web app's source code functionality to accommodate changes in the PyMongo driver version and an upgraded MongoDB platform underscored my ability to implement computer solutions that not only deliver value but also align with industry-specific objectives. The biggest challenge ultimately was porting the application over from Linux to Windows. This was due to the older versions of Python and MongoDB that were used.
 
@@ -118,13 +119,15 @@ As mentioned in the Algorithms and Data Structures Code review, the application 
 
 I selected this application for it was coded in my second best programming language, C++. I saw this as a challenge, since I don’t currently have a career as a developer. By working on this application, it allowed me to showcase my ability to work with another programming language that wasn’t Python, which of the two programming languages C++ executes faster than Python , making it great for embedded or enterprise applications. 
 
+The original application would only list all bids by ID, find bid by ID, and then the ability to remove a bid. While there wasn't anything wrong with the application, I wanted to add some additional functionality as mentioned below.
+
 The focus of the artifact enhancements was to enable the ability to list all bids by dollar amount as well as the ability to find all bids by a dollar amount within a specific range. While making the enhancements, I was able to put my developer hat on and look at things from that perspective which allowed me to improve the structure of the code not only from something as simple as comments but to the overall functionality of the application. I also was able to put my end user hat on, to review the existing code and confirm if there was anything that didn’t work as intended.  The full listing of enhancements are:
 
 1.	Enhancement to the existing program to enable the ability to list all bids by dollar amount.
 2.	Enhancement to the existing program to enable the ability to find all bids by dollar amount within a specified range. (Currently hard-coded, future enhancement would be to allow user input to specify these ranges.)
 3.	As identified in the code review, added better comments where necessary for other developers to understand what each code block does.
 
-When I was originally creating this application, my understanding of C++ was limited. The way the course was taught and the base code that was provided throughout was incredibly helpful. While making the enhancements, I was able to put my developer hat on and look at things from that perspective which allowed me to improve the structure of the code not only from something as simple as comments but to the overall functionality of the application. I also was able to put my end user hat on, to review the existing code and confirm if there was anything that didn’t work as intended. The main challenges that were faced ultimately was the learning curve of C++. In my previous Milestone for the Software Engineering/Design category, Python to me, is significantly easier to pick up as a non-developer than C++. 
+When I was originally creating this application, my understanding of C++ was limited. The way the course was taught and the base code that was provided throughout was incredibly helpful. While making the enhancements, I was able to put my developer hat on and look at things from that perspective which allowed me to improve the structure of the code not only from something as simple as comments but to the overall functionality of the application. I also was able to put my end user hat on, to review the existing code and confirm if there was anything that didn’t work as intended. The main challenges that were faced ultimately was the learning curve of C++. In my previous Milestone for the Software Engineering/Design category, Python to me, is significantly easier to pick up as a non-developer than C++.
 
 Original Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20260/Old%20Application)
 
