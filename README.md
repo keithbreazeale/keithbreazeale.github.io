@@ -102,7 +102,8 @@ The setup and execution of the web application posed considerable challenges. Ho
 
 Original Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20340/Old%20Application)
 
-Enhanced Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20340/Application) It is to note that the above enhancements are shown with an "Enhancement" comment to show where in the code the enhancement was made.
+Enhanced Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20340/Application) 
+It is to note that the above enhancements are shown with an "Enhancement" comment to show where in the code the enhancement was made.
 
 <div style="text-align: right;">
     <a href="#">
@@ -134,7 +135,8 @@ When I was originally creating this application, my understanding of C++ was lim
 
 Original Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20260/Old%20Application)
 
-Enhanced Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20260/Application) It is to note that the above enhancements are shown with an "Enhancement" comment to show where in the code the enhancement was made.
+Enhanced Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20260/Application) 
+It is to note that the above enhancements are shown with an "Enhancement" comment to show where in the code the enhancement was made.
 
 <div style="text-align: right;">
     <a href="#">
