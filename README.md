@@ -71,6 +71,7 @@ The video version of the Code Review can be found [here.](https://www.youtube.co
 </div>
 
 # Software Design and Engineering / Database Application
+## Narrative
 As mentioned in the Software Engineering Design and Database Category Code Review, the application that was chosen was the "Grazioso Salvare Animal Finder" Application. This application has a Python front end and utilizes MongoDB (NoSQL) for it’s database. This artifact was conceptualized, designed, and built as part of the CS 340 Client/Server Development course at SNHU in April 2023. The objective of the web application is to create a user-friendly interface that interfaces with an existing animal shelter database. Its purpose is to identify and categorize dogs available for various rescue training programs.  Developed using Python and the Dash framework, the application integrates with MongoDB, a non-relational database, using the PyMongo driver. The app's functionalities include importing a CSV file of shelter dogs into MongoDB, incorporating necessary dependencies such as Python libraries, PyMongo, and the Dash framework. It also includes a Python source code and CRUD module to manipulate the imported data within MongoDB.
 
 This artifact constitutes a multi-tier application employing the Model View Controller (MVC) architecture and RESTful protocol design, extending the HTTP protocol to offer an API. The MVC pattern emphasizes a clear separation of concerns: the model handles data management, the view determines the user interface using the Dash framework, and the controller retrieves and modifies data via the PyMongo driver. 
@@ -110,6 +111,7 @@ Enhanced Application code can be found [here.](https://github.com/keithbreazeale
 </div>
 
 # Algorithms and Data Structures Application
+## Narrative
 As mentioned in the Algorithms and Data Structures Code review, the application that was chosen was the "Binary Search Tree" Application. This application is written in C++. This artifact was conceptualized, designed, and built as part of the CS 260: Data Structures and Algorithms course at SNHU in December 2021. The objective of this application was to create a small, efficient program for loading bid information (stored in a CSV file) and then allowing the user to search through the bids via a terminal. 
 
 <div style="text-align: center;">
