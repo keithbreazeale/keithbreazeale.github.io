@@ -105,6 +105,8 @@ Original Application code can be found [here.](https://github.com/keithbreazeale
 Enhanced Application code can be found [here.](https://github.com/keithbreazeale/keithbreazeale.github.io/tree/main/CS%20340/Application) 
 It is to note that the above enhancements are shown with an "Enhancement" comment to show where in the code the enhancements were made, where applicable.
 
+Video Demo of the Enhanced Application can be found [here.](https://youtu.be/k-BAxyADxrs)
+
 <div style="text-align: right;">
     <a href="#">
         <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
